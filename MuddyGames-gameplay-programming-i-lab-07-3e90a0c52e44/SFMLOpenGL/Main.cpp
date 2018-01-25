@@ -4,4 +4,6 @@ int main(void)
 {
 	Game& game = Game();
 	game.run();
+
+	return 1;
 }
